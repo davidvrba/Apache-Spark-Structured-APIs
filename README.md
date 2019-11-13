@@ -10,11 +10,43 @@ Introduction to Apache Spark and the structured APIs. This course covers mainly 
 * Language: Scala or Python
 
 ## Objectives of the training
-* Learn how Spark SQL module works under the hood
-* Learn how the optimization engine works in Spark
-* Understand what is happening under the cover when you send a query for execution
-* Understand query plans and use that information to optimize queries
-* Learn advanced optimization techniques to achieve high performance
-* Learn how to prepare data for analytical queries
+* Understand basic concepts of Apache Spark and distributed computing
+* Learn how to use DataFrame API in Spark for ETL jobs or ad hoc data analysis
+* Learn advanced features of DataFrame API
+ * Aggregation and Window functions
+ * User Defined Functions
+ * Higher Order Functions with complex data types
+* Understand information in Spark UI
+
 
 ## Training Outline
+1. Introduction to Apache Spark
+    * High level introduction to Spark
+    * Introduction to Spark architecture
+    * Spark APIs: high level vs low level vs internal APIs
+2. Structured APIs in Spark
+    * Basic concepts of DataFrame API
+    * DataFrame, Row, Column
+    * Operations in SparkSQL: transformations, actions
+    * Working with DataFrame: creating a DataFrame and basic transformations
+    * Working with different data types (Integer, String, Date, Timestamp, Boolean)
+    * Filtering
+    * Conditions
+    * Dealing with null values
+    * Joins
+3. Lab I
+    * Advanced transformations with DataFrames
+    * Aggregations and Window functions
+    * Lab II
+    * User Defined Functions
+    * Lab III
+    * Higher Order Functions and complex data types (news in Spark 2.4)
+    * Lab IV
+4. Spark UI
+    * Understand the information in Spark UI
+
+## Prerequisits
+* No prior knowladge in Spark is required
+* Basic level in Python or Scala programming language
+
+For more information about the training you can contact directly the lecturer via <a href="http://www.linkedin.com/in/vrba-david" target="_blank"> LinkedIn</a>.
