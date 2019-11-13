@@ -2,7 +2,7 @@
 This is a code base that serves as acompanying content for Spark Training lectured and prepared by David Vrba.
 
 ## Training Description
-Introduction to Apache Spark and the structured APIs. This course covers mainly the programing interface of the DataFrame API from its basic concepts (simple transformations of the DataFrame) to even more advanced features such as complex data types and higher order functions.
+Introduction to Apache Spark and the structured APIs. This course covers mainly the programing interface of the DataFrame API from its basic concepts (simple transformations of the DataFrame) to even more advanced features such as user defined functions, advanced aggregations with window functions and complex data types with higher order functions.
 
 ## Training Format
 * 6 hours
@@ -13,9 +13,9 @@ Introduction to Apache Spark and the structured APIs. This course covers mainly 
 * Understand basic concepts of Apache Spark and distributed computing
 * Learn how to use DataFrame API in Spark for ETL jobs or ad hoc data analysis
 * Learn advanced features of DataFrame API
- * Aggregation and Window functions
- * User Defined Functions
- * Higher Order Functions with complex data types
+    * Aggregation and Window functions
+    * User Defined Functions
+    * Higher Order Functions with complex data types
 * Understand information in Spark UI
 
 
