@@ -50,5 +50,3 @@ Structured APIs are the recommended APIs to be used in the current version of Sp
 * Basic level in Python or Scala programming language
 
 For more information about the training you can contact directly the lecturer via <a href="http://www.linkedin.com/in/vrba-david" target="_blank"> LinkedIn</a>.
-
-Data for the training are downloaded from the [Stack Exchange database](https://archive.org/details/stackexchange).
